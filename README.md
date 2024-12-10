@@ -19,7 +19,7 @@ Para configurar e rodar o projeto em outra máquina, garanta que os seguintes pr
 
 ## Documentação do Projeto
 
-- [Miro Board](https://miro.com/welcomeonboard/V2NOUThhVkZWb3F5YVhPcHlKZ1lEYjMxdVF6bzBFbDJDL21wdE5OcFAzb1M4SSt1cm5uNTFldGI2SE1tZGo2ZFNMbTZIcUx0ZzBwdGlWemtQSjNVamVTblNRd0hWWWw2clpGd0Rwd0JXMmQ0S1RHelhxMHZ2VUZwdHFUWWJuTGwhZQ==?share_link_id=468499909302)
+- [Miro Board](https://miro.com/app/board/uXjVLHL8-v4=/?share_link_id=73493550302)
 
 ## Pitch
 
